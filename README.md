@@ -14,4 +14,6 @@ PIN Mappings
 - Button = 33
 
 The basic schematic looks like this: 
+
+
 ![Schematic](images/State_machine_schematic_screenshot.png)
